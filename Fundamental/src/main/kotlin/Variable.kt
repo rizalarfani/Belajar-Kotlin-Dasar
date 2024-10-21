@@ -7,6 +7,6 @@ fun main() {
     // Dengan mengunakan val
     val companyAddress = "Jl. Mataram No.9, Pesurungan Lor, Kec. Margadana, Kota Tegal, Jawa Tengah"
     val kodePos = 52147
-    //companyAddress = "Poltek Harber"
+//    companyAddress = "Poltek Harber"
     println(companyAddress + " " + kodePos)
 }
